@@ -1,0 +1,1 @@
+{"gpu": "2 x Tesla T4", "invalid_rows": 0, "hours": 0.54, "python": "3.13.15", "torch": "2.11.0+cu128", "transformers": "5.20.2", "dtype": "torch.float16", "prompt_len_median": 84, "prompt_len_max": 725}
